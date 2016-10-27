@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTML5 Test Launcher</string>
+    <string name="system_browser">System Browser</string>
+</resources>

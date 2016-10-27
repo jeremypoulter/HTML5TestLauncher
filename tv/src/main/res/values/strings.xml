@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTML5 Test Launcher</string>
+    <string name="browse_title"><![CDATA[Videos by DLNA]]></string>
+    <string name="system_browser">System Browser</string>
+</resources>
