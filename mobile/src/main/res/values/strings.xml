@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">HTML5 Test Launcher</string>
     <string name="system_browser">System Browser</string>
+    <string name="w3c_runner">W3C Test Runner</string>
+    <string name="local_simple_runner">Local Simple Runner</string>
+    <string name="local_full_runner">Local Full Runner</string>
 </resources>

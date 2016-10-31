@@ -6,4 +6,18 @@
         android:id="@+id/system_browser"
         app:showAsAction="ifRoom"
         android:icon="@drawable/ic_system_browser" />
+
+    <item android:title="@string/w3c_runner"
+        android:id="@+id/w3c_runner"
+        app:showAsAction="never" />
+
+    <item android:title="@string/local_simple_runner"
+        android:id="@+id/local_simple_runner"
+        app:showAsAction="never" />
+
+    <item android:title="@string/local_full_runner"
+        android:id="@+id/local_full_runner"
+        app:showAsAction="never" />
+
+
 </menu>
