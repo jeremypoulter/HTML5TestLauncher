@@ -15,15 +15,10 @@
 package org.dlna.html5testlauncher;
 
 import android.app.Activity;
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
-import android.view.View;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import android.widget.Button;
-import android.widget.Toast;
 
 /*
  * MainActivity class that loads MainFragment
